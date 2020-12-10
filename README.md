@@ -1,1 +1,8 @@
-# nn-coursework
+# Сверточные сети. Сеть VGG
+
+Используемые библиотеки:
+
+* Keras
+* NumPy
+* OpenCV
+
